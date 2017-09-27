@@ -35,7 +35,7 @@ $logo = '<a href="/"><img src="http://placehold.it/350x150" alt="[company]" titl
                             <div class="small-5 columns">
                                 <?php echo $logo; ?>
                             </div>
-                            <div class="small-7 columns">
+                            <div class="small-7 columns" id="header-service-area">
                                 <p onclick="location.href='/service-area.html';" style="cursor:pointer;">Serving [territory], [major cities 3]</p>
                             </div>
                         </div>   
